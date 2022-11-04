@@ -15,6 +15,7 @@
 		13A541EF2911A33900B33213 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13A541EE2911A33900B33213 /* Assets.xcassets */; };
 		13A541F22911A33900B33213 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13A541F02911A33900B33213 /* LaunchScreen.storyboard */; };
 		13A541F92911A5DD00B33213 /* Content in Resources */ = {isa = PBXBuildFile; fileRef = 13A541F82911A5DD00B33213 /* Content */; };
+		13E510D629154BA700606EEA /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 13E510D529154AA400606EEA /* FireParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		13A541EE2911A33900B33213 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13A541F12911A33900B33213 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		13A541F82911A5DD00B33213 /* Content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Content; sourceTree = "<group>"; };
+		13E510D529154AA400606EEA /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				13A541E12911A33800B33213 /* AppDelegate.swift */,
 				13A541E32911A33800B33213 /* GameScene.sks */,
+				13E510D529154AA400606EEA /* FireParticles.sks */,
 				13A541E72911A33800B33213 /* GameScene.swift */,
 				13A541E92911A33800B33213 /* GameViewController.swift */,
 				13A541EB2911A33800B33213 /* Main.storyboard */,
@@ -132,6 +135,7 @@
 				13A541ED2911A33800B33213 /* Main.storyboard in Resources */,
 				13A541E42911A33800B33213 /* GameScene.sks in Resources */,
 				13A541F92911A5DD00B33213 /* Content in Resources */,
+				13E510D629154BA700606EEA /* FireParticles.sks in Resources */,
 				13A541EF2911A33900B33213 /* Assets.xcassets in Resources */,
 				13A541F22911A33900B33213 /* LaunchScreen.storyboard in Resources */,
 			);
